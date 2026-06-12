@@ -1,28 +1,30 @@
-## Hi there 👋
-
-<!--
-**umamarasingha/umamarasingha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your # Hi, I'm Umadhi Uththara 👋
+# Hi, I'm Umadhi Uththara 👋
 
 🎓 Final-Year Information Technology Undergraduate at Rajarata University of Sri Lanka
 
-💻 Passionate about UI/UX Design, Full-Stack Development, and AI-powered Applications.
+💻 UI/UX Designer | Full-Stack Developer | AI Enthusiast
 
-## Skills
+🌱 Passionate about building scalable, user-friendly applications and AI-powered solutions.
+
+## 🚀 Skills
+
 - React
 - TypeScript
 - Node.js
+- JavaScript
 - Git & GitHub
 - UI/UX Design
 - Machine Learning
 
-## Featured Project
-🌽 Corn Leaf Disease Detection
-An AI-powered web application for detecting and managing corn leaf diseases using image recognition.
+## 🌟 Featured Project
 
-## Portfolio
-🔗 https://uma-design-spark.lovable.app
+### Corn Leaf Disease Detection
+An AI-powered web application for detecting and managing corn leaf diseases using image recognition technology.
 
-## Contact
-📧 umamarasingha99@gmail.com.
+## 🌐 Portfolio
 
+https://uma-design-spark.lovable.app
 
+## 📫 Contact
+
+Email: umamarasingha99@gmail.com
